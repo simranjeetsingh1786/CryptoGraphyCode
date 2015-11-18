@@ -1,5 +1,11 @@
 package com.learn.cryptograpghy;
 
+/**
+ * THis class is used for 
+ * decrypting the Vigener Cipher by using the key provided.
+ * @author SimranjeetSingh_N
+ *
+ */
 public class VigenereCipher
 {
     public static String encrypt(String text, final String key)
